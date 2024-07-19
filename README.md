@@ -25,7 +25,7 @@ links for guides):
 
 ### Create your personal repo
 
-1. [Create a new repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) in your Github account and name it `github-stars-pipeline`.
+1. [Create a new repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) in your Github account and name it `github-stars-pipeline`. **Make sure not to create your own README file when Github asks you!**
 
 2. Clone this repo.
 
@@ -44,7 +44,7 @@ git remote set-url origin https://github.com/{your_github_username}/github-stars
 4. Push to your new github repo.
 
 ```bash
-git push origin master
+git push origin main
 ```
 
 ### Set up your python environment and DuckDB
