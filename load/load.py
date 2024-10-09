@@ -25,10 +25,11 @@ def load_json_gz_files_in_duck_db(json_dir):
 # to test:
 if __name__ == "__main__":
     # Example file path: replace this with your actual zip file path and extraction directory
-    zip_file = "C:\\Users\\maham\\github-stars-pipeline\\github-stars-pipeline\\data\\gharchive_sample.zip"
-    output_dir = "C:\\Users\\maham\\github-stars-pipeline\\load"
+    zip_file = ".\\data\\gharchive_sample.zip"
+    output_dir = ".\\tmp"
+    json_dir = ".\\tmp\\gharchive_sample"
     
     # Call the function
     extract_zip_file(zip_file, output_dir)
-    load_json_gz_files_in_duck_db(output_dir)
+    load_json_gz_files_in_duck_db(json_dir)
     print("Data loading successful!")
