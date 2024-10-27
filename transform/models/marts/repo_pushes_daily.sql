@@ -1,1 +1,1 @@
-{{event_activity('Push', 'day', 'comul_push_count')}}
+{{repo_event_by_period("commit", "day")}}

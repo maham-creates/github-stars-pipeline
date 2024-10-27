@@ -1,5 +1,5 @@
 select
-   replace(type,'Event','') as event_type, --remove 'Event' suffix
+   replace(type,'Event','') as LOWER(event_type), 
    actor.login as user,
    repo.id as repo_id,
    repo.name as repo_name,

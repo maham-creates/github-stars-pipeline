@@ -1,1 +1,1 @@
-{{event_activity('Watch', 'month', 'comul_star_count')}}
+{{repo_event_by_period("star", "month")}}
