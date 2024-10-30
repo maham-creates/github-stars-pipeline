@@ -1,1 +1,1 @@
-{{repo_event_by_period("commit", "day")}}
+{{ repo_event_by_period("commit", "day") }}
