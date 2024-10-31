@@ -14,4 +14,7 @@ GitHub Gems is a data analytics tool designed to track and surface trending open
 - **Data Format**: CSV and JSON formats.
 - **Update Frequency**: Updated daily for real-time insights.
 
+## dbt Lineage Diagram
+![dbt Lineage Diagram](C:\Users\maham\github-stars-pipeline\docs\dbt_dag.png)
+
 ```bash
