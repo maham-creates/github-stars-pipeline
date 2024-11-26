@@ -1,0 +1,279 @@
+[33mcommit 1b49238892fc30007976b720074a3a22bf801dfd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcreate_macros[m[33m, [m[1;31morigin/create_macros[m[33m)[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Sat Nov 2 21:45:05 2024 -0400
+
+    deleted redundant readme & fixed absolute path
+
+[33mcommit 7bfc745e890fe8a8fad8d8de6e0e92542458d5e9[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Wed Oct 30 23:08:35 2024 -0400
+
+    added dbt docs image to README
+
+[33mcommit 186560573bc3aae1f7c9522d93247ed8a229e68e[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Wed Oct 30 22:45:16 2024 -0400
+
+    Added dbt lineage diagram & fixed minor changes
+
+[33mcommit a5bb947e23c1bc8cb8d3fab2b4cd1bdfb9d2ade0[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Wed Oct 30 14:51:04 2024 -0400
+
+    Improved code documentation
+
+[33mcommit 0a6f159abf03fdf734ea1d1ca4ba71ec99d6fb35[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Sun Oct 27 00:30:23 2024 -0400
+
+    removed repetitive code
+
+[33mcommit 657e988e983cb49c1d6b8fe937a0c3c31e743ffb[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Wed Oct 23 11:07:29 2024 -0400
+
+    removed_repeated_code
+
+[33mcommit bdc3cb758fcb056da016fb06a04d92db6fd76218[m[33m ([m[1;32mPresentation[m[33m)[m
+Merge: 5ae5df2 f178839
+Author: maham-creates <mahamtulips@gmail.com>
+Date:   Wed Oct 16 16:47:31 2024 -0400
+
+    Merge pull request #7 from maham-creates/building_models_in_dbt
+    
+    Built models in dbt
+
+[33mcommit f17883931fb69d8ba5cff46c06245a2f17a42568[m[33m ([m[1;31morigin/building_models_in_dbt[m[33m, [m[1;32mbuilding_models_in_dbt[m[33m)[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Wed Oct 16 16:45:45 2024 -0400
+
+    Fixed formatting
+
+[33mcommit 5ae5df2899d108fa531e4f4efbd85ec5326a4202[m
+Merge: fb15abb 81627b7
+Author: maham-creates <mahamtulips@gmail.com>
+Date:   Wed Oct 16 16:20:35 2024 -0400
+
+    Merge pull request #6 from maham-creates/create_dbt_project
+    
+    Created_staging_layer
+
+[33mcommit 81627b714d6b7c19f7fa6e6ba7020db445d30c1e[m[33m ([m[1;31morigin/create_dbt_project[m[33m, [m[1;32mcreate_dbt_project[m[33m)[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Wed Oct 16 16:18:02 2024 -0400
+
+    Removed Comments
+
+[33mcommit 8e641326c6ff89c4cc0a0347d76794d6a28fc207[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Tue Oct 15 17:06:33 2024 -0400
+
+    Built_models_in_dbt
+
+[33mcommit ac01d66eb1a79554d7dc6d8b7ccb25d073cee414[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Sun Oct 13 22:28:31 2024 -0400
+
+    created_staging_layer
+
+[33mcommit fb15abb0f96405534d5d740d315d3ef7e35b60f0[m
+Merge: ea1889e 9630129
+Author: maham-creates <mahamtulips@gmail.com>
+Date:   Wed Oct 9 14:14:48 2024 -0400
+
+    Merge pull request #5 from maham-creates/ma_add_load
+    
+    Add load.py
+
+[33mcommit 96301293e76ed1b9c173e22ead881f86bcface5a[m[33m ([m[1;31morigin/ma_add_load[m[33m, [m[1;32mma_add_load[m[33m)[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Wed Oct 9 14:14:02 2024 -0400
+
+    Used path.join for load.py
+
+[33mcommit 15e27c749de995bddabd339b3c9fe99ae9641a23[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Wed Oct 9 14:00:36 2024 -0400
+
+    fix directory in load.py
+
+[33mcommit 4fcb34676b4ba196d89d51b9169add840e136440[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Wed Oct 9 13:49:50 2024 -0400
+
+    Add load.py
+
+[33mcommit ea1889ebd1da2fda7d2c156d414521aaf4f3c358[m
+Merge: daea801 f86f588
+Author: Maham <mahamtulips@gmail.com>
+Date:   Sun Oct 6 22:41:26 2024 -0400
+
+    Merge branch 'main' of https://github.com/maham-creates/github-stars-pipeline
+
+[33mcommit daea80163eb32650c84a90d661027d7506c8f7c5[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Sun Oct 6 22:41:14 2024 -0400
+
+    Data Ingestion
+
+[33mcommit f86f5884721e449a3f322fb97590f0beb8b4eac3[m
+Merge: a95ca24 4284c7d
+Author: maham-creates <mahamtulips@gmail.com>
+Date:   Thu Oct 3 15:10:13 2024 -0400
+
+    Merge pull request #3 from maham-creates/update_readme
+    
+    Add user requirements to README.md
+
+[33mcommit 4284c7d54ba32f7d9842f57dbe666d230f06b309[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Sun Sep 22 14:37:42 2024 -0400
+
+    Add user requirements to README.md
+
+[33mcommit a95ca24083b190ce45f69eb6c75beb273d7b7e93[m
+Merge: acbb0ac af2773b
+Author: maham-creates <mahamtulips@gmail.com>
+Date:   Tue Sep 17 18:50:57 2024 -0400
+
+    Merge pull request #1 from maham-creates/add_duck_db
+    
+    Add DuckdB to requirements.txt
+
+[33mcommit af2773b7802af18a580ee97511aacb53c2254d18[m
+Author: Maham <mahamtulips@gmail.com>
+Date:   Tue Sep 17 18:37:14 2024 -0400
+
+    Add DuckdB to requirements.txt
+
+[33mcommit acbb0ac2fee5e1e2baff08c18bc978a5911cff38[m
+Merge: 998553f 9c0cb3f
+Author: Edouard Sioufi <edsioufi@gmail.com>
+Date:   Wed Sep 11 11:52:34 2024 -0700
+
+    Merge pull request #8 from edsioufi/es_update_readme_2
+    
+    Further improve readme
+
+[33mcommit 9c0cb3ff194cb73ac9bb6cfddf96d357cdddb33b[m
+Author: Edouard Sioufi <sioufi@Eds-MacBook-Pro.local>
+Date:   Wed Sep 11 11:51:31 2024 -0700
+
+    Further improve readme
+
+[33mcommit 998553f8d40da67eb5042513924ba44cc4289bd3[m
+Merge: 6f26e92 9ec0e29
+Author: Edouard Sioufi <edsioufi@gmail.com>
+Date:   Fri Jul 19 23:43:56 2024 +0300
+
+    Merge pull request #7 from edsioufi/es_update_readme
+    
+    Fix minor imprecisions in README
+
+[33mcommit 9ec0e299af7ccae1f86fc7efe47f55876664ad3f[m
+Author: Edouard Sioufi <sioufi@Eds-MacBook-Pro.local>
+Date:   Fri Jul 19 23:43:15 2024 +0300
+
+    Fix minor imprecisions in README
+
+[33mcommit 6f26e92eb041e6236b4a315f548b739a494afa22[m
+Merge: 8d8e7bd 6844a0c
+Author: Edouard Sioufi <edsioufi@gmail.com>
+Date:   Fri Jul 19 23:36:20 2024 +0300
+
+    Merge pull request #6 from edsioufi/es_zip_data
+    
+    Zip json data files to reduce file count
+
+[33mcommit 6844a0c186cc91cbb33427def7869d298c6824c1[m
+Author: Edouard Sioufi <sioufi@Eds-MacBook-Pro.local>
+Date:   Fri Jul 19 23:28:56 2024 +0300
+
+    Zip json data files to reduce file count
+
+[33mcommit 8d8e7bde410d92d3883994b79fe3e976dafe0b15[m
+Merge: 97d9117 339b23c
+Author: Edouard Sioufi <edsioufi@gmail.com>
+Date:   Tue Apr 23 14:48:56 2024 -0700
+
+    Merge pull request #5 from edsioufi/es_fix_readme
+    
+    Update getting started in readme
+
+[33mcommit 339b23c3616cd296b4b188fb94187cf81695b8d9[m
+Author: Edouard Sioufi <sioufi@Eds-MacBook-Pro.local>
+Date:   Tue Apr 23 14:48:09 2024 -0700
+
+    Update getting started in readme
+
+[33mcommit 97d91179f925acb532a505b482936103aaefecf4[m
+Merge: 5ce02eb dee7fc7
+Author: Edouard Sioufi <edsioufi@gmail.com>
+Date:   Fri Apr 19 10:12:44 2024 -0700
+
+    Merge pull request #4 from edsioufi/es_fix_sample
+    
+    Remove wrong ID field from sample data
+
+[33mcommit dee7fc7f30ac52f38cd0f3b5b85404b55e52ea73[m
+Author: Edouard Sioufi <sioufi@Eds-MacBook-Pro.local>
+Date:   Fri Apr 19 10:11:14 2024 -0700
+
+    Remove wrong ID field from sample data
+
+[33mcommit 5ce02eb2d5b50b85e2ec5ae6fd961fb756a27f58[m
+Merge: e220ace c2a7002
+Author: Edouard Sioufi <edsioufi@gmail.com>
+Date:   Thu Apr 18 19:04:27 2024 -0700
+
+    Merge pull request #3 from edsioufi/es_gitignore
+    
+    Add gitignore + remove .DS_Store from prior commit
+
+[33mcommit c2a70024cdf1229a9a0c2afd7b841bb7845e2682[m
+Author: Edouard Sioufi <sioufi@Eds-MacBook-Pro.local>
+Date:   Thu Apr 18 19:03:39 2024 -0700
+
+    Add gitignore + remove .DS_Store from prior commit
+
+[33mcommit e220ace59a8fc7671a90405496b193875676ba44[m
+Merge: 2454bf9 48f9c7a
+Author: Edouard Sioufi <edsioufi@gmail.com>
+Date:   Thu Apr 18 18:58:52 2024 -0700
+
+    Merge pull request #2 from edsioufi/es_data
+    
+    Add sample data from gharchive in `data/`
+
+[33mcommit 48f9c7a1ead5208792bc59ff95e98a0e2eaa10b6[m
+Author: Edouard Sioufi <sioufi@Eds-MacBook-Pro.local>
+Date:   Thu Apr 18 18:57:25 2024 -0700
+
+    Add data sampling methodology section to readme
+
+[33mcommit 392cf346282289046304ac9e6ccb1c67e1ab53be[m
+Author: Edouard Sioufi <sioufi@Eds-MacBook-Pro.local>
+Date:   Thu Apr 18 18:37:17 2024 -0700
+
+    Add sample gharchive data
+
+[33mcommit 2454bf956b3a6b96bf1ffdcea294e514165a4895[m
+Merge: fc3302a aac9999
+Author: Edouard Sioufi <edsioufi@gmail.com>
+Date:   Fri Apr 5 12:52:09 2024 -0700
+
+    Merge pull request #1 from edsioufi/es_readme
+    
+    Add first version of README
+
+[33mcommit aac99992b277423ca10fde15973b1ec0a927926b[m
+Author: Edouard Sioufi <sioufi@Eds-MacBook-Pro.local>
+Date:   Fri Apr 5 12:51:38 2024 -0700
+
+    Add first version of README
+
+[33mcommit fc3302a376833fafabf60f1c34bf22cdf25c8b55[m
+Author: Edouard Sioufi <edsioufi@gmail.com>
+Date:   Fri Mar 29 13:10:37 2024 -0700
+
+    Initial commit
