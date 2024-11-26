@@ -14,6 +14,9 @@ GitHub Gems is a data pipeline designed to track and surface trending open-sourc
 - **Data Format**: CSV and JSON formats.
 - **Update Frequency**: Updated daily for real-time insights.
 
+## dbt Lineage Diagram
+![dbt Lineage Diagram](docs/dbt_dag.png )
+
 ## Cummulative Stars per Month Chart
 ![Cumulative Stars Chart](notebooks/cumulative_stars_chart.png)
 
